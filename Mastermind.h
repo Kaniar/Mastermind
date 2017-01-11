@@ -1,5 +1,5 @@
-#ifndef MY_H_
-# define MY_H_
+#ifndef MASTERMIND_H_
+# define MASTERMIND_H_
 
 typedef struct	s_struct
 {
